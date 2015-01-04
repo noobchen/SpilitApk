@@ -1,0 +1,16 @@
+package com.utils.splitApk;
+
+/**
+ * Created by MyQueen on 14-7-22.
+ */
+public class test {
+    public static void main(String[] args) {// 这里用cmd传入参数用
+        System.out.println("====**====By H3c=====**======");
+
+        System.out.println( "<meta-data android:name=\"a\" android:value=\"umeng_channel\" />".replace("umeng_channel","123"));
+
+
+
+
+    }
+}
