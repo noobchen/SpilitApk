@@ -2,6 +2,7 @@ package com.utils.splitApk;
 
 /**
  * Created by MyQueen on 14-7-22.
+ *	changed by cyc on 15-1-4
  */
 public class test {
     public static void main(String[] args) {// 这里用cmd传入参数用
@@ -9,7 +10,7 @@ public class test {
 
         System.out.println( "<meta-data android:name=\"a\" android:value=\"umeng_channel\" />".replace("umeng_channel","123"));
 
-
+		
 
 
     }
