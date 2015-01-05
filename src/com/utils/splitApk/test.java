@@ -12,6 +12,8 @@ public class test {
 
 		
 		System.out.println("Test git dev branch")
+		
+		System.out.println("Test git dev branch conflict")
 
     }
 }
