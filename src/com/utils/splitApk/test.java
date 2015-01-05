@@ -15,6 +15,8 @@ public class test {
 
 		
 		System.out.println("Test git dev branch conflict")
+		
+		System.out.println("Test git --no-ff merge")
 
 
     }
