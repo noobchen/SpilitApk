@@ -11,7 +11,7 @@ public class test {
         System.out.println( "<meta-data android:name=\"a\" android:value=\"umeng_channel\" />".replace("umeng_channel","123"));
 
 		
-
+		System.out.println("Test git dev branch")
 
     }
 }
